@@ -1,8 +1,6 @@
 # Privacy Policy
 
-**Effective date:** [Month Day, Year]
-
-Aeon (“we”, “us”, “our”) provides a marketplace to book local services. This Privacy Policy explains how we collect, use, and share information.
+ÆON ("we", "us", "our") provides a marketplace to book local services. This Privacy Policy explains how we collect, use, and share information.
 
 ## Information We Collect
 - **Account information**: name, email, password (stored securely by our authentication provider).
@@ -33,4 +31,4 @@ You can update your account information or request account deletion by contactin
 
 ## Contact
 For privacy questions or requests, contact:  
-**[support@joinaeon.app]**
+**[contact@joinaeon.app]**
